@@ -2,11 +2,11 @@
 
 <!-- Bannière avec badges -->
 <p align="center">
-  <a href="https://github.com/yourusername/xiwa-air-crackers" target="_blank">
-    <img src="https://img.shields.io/github/stars/yourusername/xiwa-air-crackers?style=for-the-badge&color=brightgreen&label=Stars" alt="Stars">
+  <a href="https://github.com/dryzer0dev/xiwa-air-crackers" target="_blank">
+    <img src="https://img.shields.io/github/stars/dryzer0dev/xiwa-air-crackers?style=for-the-badge&color=brightgreen&label=Stars" alt="Stars">
   </a>
-  <a href="https://github.com/yourusername/xiwa-air-crackers/fork" target="_blank">
-    <img src="https://img.shields.io/github/forks/yourusername/xiwa-air-crackers?style=for-the-badge&color=orange&label=Forks" alt="Forks">
+  <a href="https://github.com/dryzer0dev/xiwa-air-crackers/fork" target="_blank">
+    <img src="https://img.shields.io/github/forks/dryzer0dev/xiwa-air-crackers?style=for-the-badge&color=orange&label=Forks" alt="Forks">
   </a>
 </p>
 
